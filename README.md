@@ -10,9 +10,9 @@ Graph Contrastive Learning (GCL) has emerged as a highly effective self-supervis
 
 ``` latex
 @inproceedings{S3GCL_ICML24,
-    title    = {S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning},
-    author    = {Guancheng Wan, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye},
-    booktitle = {ICML},
-    year      = {2024}
+    title={S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning},
+    author={Wan, Guancheng and Tian, Yijun and Huang, Wenke and Chawla, Nitesh V  and Ye, Mang},
+    booktitle={ICML},
+    year={2024}
 }
 ```
