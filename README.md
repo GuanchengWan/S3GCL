@@ -16,3 +16,7 @@ Graph Contrastive Learning (GCL) has emerged as a highly effective self-supervis
   year={2024}
 }
 ```
+---
+
+Thank you for your interest in our work. We are currently organizing our code, a process that may take several months. In the meantime, if you have any questions regarding implementation details, please feel free to contact me via email.
+To manage inquiries about the code release timeline, we have temporarily closed the issue panel. We will reopen it once the code is available.
